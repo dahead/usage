@@ -2,6 +2,10 @@
 
 A simple terminal tool to analyze directory sizes, written in Go.
 
+## Preview
+
+![Preview](preview.png)
+
 ## Features
 
 - Shows size and percentage for each directory/file
@@ -13,7 +17,6 @@ A simple terminal tool to analyze directory sizes, written in Go.
 - `Enter` - Enter directory
 - `Backspace` - Go back
 - `q` - Quit
-
 
 ## Dependencies
 
